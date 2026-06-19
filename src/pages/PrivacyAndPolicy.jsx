@@ -5,7 +5,7 @@ const PrivacyAndPolicy = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-11 col-12">
-                    <h1 className="mb-4 text-center">Privacy Policy - HealthCare</h1>
+                    <h1 className="mb-4 text-center">Privacy Policy - Elthium Health</h1>
 
                     <div className="mb-4">
                         <h4 className="mb-2">1. Information We Collect</h4>
@@ -21,7 +21,7 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">2. How We Use Your Information</h4>
                         <ul>
-                            <li>Provide personalized healthcare insights and recommendations</li>
+                            <li>Provide personalized Elthium Health insights and recommendations</li>
                             <li>Connect users with doctors or medical professionals</li>
                             <li>Store medical records securely for easy access</li>
                             <li>Improve app functionality and user experience</li>
@@ -68,7 +68,7 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">6. Data Retention</h4>
                         <p>
-                            We retain health and personal data only as long as needed for healthcare delivery,
+                            We retain health and personal data only as long as needed for Elthium Health delivery,
                             legal compliance, or app functionality. You may request deletion at any time.
                         </p>
                     </div>
@@ -76,7 +76,7 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">7. Children's Privacy</h4>
                         <p>
-                            HealthCare is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
+                            Elthium Health is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
                         </p>
                     </div>
 

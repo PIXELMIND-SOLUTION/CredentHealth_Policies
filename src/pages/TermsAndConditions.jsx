@@ -5,10 +5,10 @@ const TermsandConditions = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-11 col-12">
-                    <h1 className="mb-4 text-center">Terms and Conditions - HealthCare</h1>
+                    <h1 className="mb-4 text-center">Terms and Conditions - Elthium Health</h1>
                     <p>
                         These Terms and Conditions ("Terms") govern your use of the{" "}
-                        <strong>HealthCare</strong> application ("App"). By accessing or using the App, you agree to comply with
+                        <strong>Elthium Health</strong> application ("App"). By accessing or using the App, you agree to comply with
                         and be bound by these Terms.
                     </p>
 
@@ -48,7 +48,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4>5. Content Ownership</h4>
                         <p>
-                            You retain rights over the health records, prescriptions, and data you upload. By using the app, you grant HealthCare limited rights to use this data to provide services.
+                            You retain rights over the health records, prescriptions, and data you upload. By using the app, you grant Elthium Health limited rights to use this data to provide services.
                         </p>
                     </div>
 
@@ -57,7 +57,7 @@ const TermsandConditions = () => {
                         <ul>
                             <li>Do not misuse the App or its services.</li>
                             <li>Do not attempt to alter, distribute, or reverse engineer the App.</li>
-                            <li>Use the App only for personal or authorized healthcare purposes.</li>
+                            <li>Use the App only for personal or authorized Elthium Health purposes.</li>
                         </ul>
                     </div>
 
@@ -71,7 +71,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4>8. Limitation of Liability</h4>
                         <p>
-                            HealthCare shall not be liable for any indirect, incidental, or consequential damages arising from use of the App. The App is provided "as is" without warranties of any kind.
+                            Elthium Health shall not be liable for any indirect, incidental, or consequential damages arising from use of the App. The App is provided "as is" without warranties of any kind.
                         </p>
                     </div>
 
